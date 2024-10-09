@@ -2,6 +2,8 @@
 
 -Revisar analisis de riesgo crediticio.
 -Revisar e investigar el K-fold - validación cruzada- para cuando no son redes neuronales.
+-Hacer el de tumors pero dejando más limpio el código.
+-Buscar el de cancer de mama.
 
 
 1. La parte de preprocesado ya la hicimos con Alan, así que entendí que no hay que darle muchas más vueltas a esto. Pero sí que tendremos que preprocesar los datos para que sean aptos para redes neuronales (vamos, que estén escalados para que la RNA asigne bien los pesos y hacer algo con los categóricos). No creo que nos fuerce a hacer una PCA, ni reducción recursiva, ni cosas raras.
